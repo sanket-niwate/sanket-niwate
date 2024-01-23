@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Sanket Niwate</h1>
+
 
 <!--
 **sanket-niwate/sanket-niwate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
