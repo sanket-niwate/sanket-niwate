@@ -12,6 +12,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanket-niwate&show_icons=true&locale=en&layout=compact" alt="sanket-niwate" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanket-niwate&show_icons=true&locale=en" alt="sanket-niwate" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanket-niwate&" alt="sanket-niwate" /></p>
