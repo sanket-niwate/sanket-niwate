@@ -37,7 +37,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,vscode,github" />
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,mongodb,java,mysql,php" /><br>
-</div>bc
+</div>
 
 <br/>
 
